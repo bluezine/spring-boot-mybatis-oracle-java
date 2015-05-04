@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="kr.co.bluezine.mapper.SugangMapper">
+    <resultMap type="hashmap" id="resultMap"></resultMap>
+    
+    <resultMap type="hashmap" id="returnMap">
+		<id property="courseCode" column="COURSECODE" jdbcType="VARCHAR" />
+		<result property="courseName" column="COURSENAME" jdbcType="VARCHAR" />
+		<result property="courseScore" column="COURSESCORE" jdbcType="VARCHAR" />
+		<result property="proName" column="PRONAME" jdbcType="VARCHAR" />
+		<result property="courseLimit" column="COURSELIMIT" jdbcType="VARCHAR" />
+		<result property="courseNow" column="COURSENOW" jdbcType="VARCHAR" />
+		<result property="courseTime" column="COURSETIME" jdbcType="VARCHAR" />
+		<result property="courseDept" column="COURSEDEPT" jdbcType="VARCHAR" />
+	</resultMap>
+	
+    <resultMap type="hashmap" id="msgMap"></resultMap>
+    
+    <select id="courseMyList" parameterType="java.util.Map" statementType="CALLABLE">
+		{ CALL COURSELIST.GETMYLIST(
+			 #{inputStuNo, mode=IN, jdbcType=VARCHAR}
+			,#{result, mode=OUT, jdbcType=CURSOR, resultMap=resultMap}
+		) }
+	</select>
+	
+    <select id="deptList" parameterType="java.util.Map" statementType="CALLABLE">
+		{ CALL COURSELIST.GETDEPTLIST(
+			#{result, mode=OUT, jdbcType=CURSOR, resultMap=resultMap}
+		) }
+	</select>
+	
+	<select id="courseList" parameterType="java.util.Map" statementType="CALLABLE">
+		{ CALL COURSELIST.GETLIST(
+			 #{inputDeptCode, mode=IN, jdbcType=VARCHAR}
+			,#{inputGrade, mode=IN, jdbcType=INTEGER}
+			,#{inputDay, mode=IN, jdbcType=VARCHAR}
+			,#{result, mode=OUT, jdbcType=CURSOR, resultMap=resultMap}
+		) }
+	</select>
+	
+	<insert id="courseInsert" parameterType="java.util.Map" statementType="CALLABLE">
+		{ CALL SUGANG_ENROLL(
+	    	 #{inputStuno, mode=IN, jdbcType=VARCHAR}
+	    	,#{inputCourseCode, mode=IN, jdbcType=VARCHAR}
+	    	,#{result, mode=OUT, jdbcType=VARCHAR, resultMap=msgMap}
+	    ) }
+	</insert>
+	
+	<delete id="courseDelete" parameterType="java.util.Map" statementType="CALLABLE">
+		 { CALL SUGANG_DELETE(
+	    	 #{inputStuno, mode=IN, jdbcType=VARCHAR}
+	    	,#{inputCourseCode, mode=IN, jdbcType=VARCHAR}
+	    	,#{result, mode=OUT, jdbcType=VARCHAR, resultMap=msgMap} 
+	    ) }
+	</delete>
+</mapper>

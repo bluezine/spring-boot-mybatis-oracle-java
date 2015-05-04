@@ -1,0 +1,791 @@
+2015-05-04 13:04:28.121 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:04:28.388  INFO 8036 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 8036 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:04:28.389 DEBUG 8036 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:04:28.417  INFO 8036 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3388c7a7: startup date [Mon May 04 13:04:28 KST 2015]; root of context hierarchy
+2015-05-04 13:04:28.882  INFO 8036 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:04:28.892  INFO 8036 --- [           main] kr.co.bluezine.Application               : Started Application in 0.689 seconds (JVM running for 1.247)
+2015-05-04 13:04:28.893  INFO 8036 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@3388c7a7: startup date [Mon May 04 13:04:28 KST 2015]; root of context hierarchy
+2015-05-04 13:04:28.894  INFO 8036 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:04:34.336 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:04:34.588  INFO 6416 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 6416 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:04:34.589 DEBUG 6416 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:04:34.617  INFO 6416 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3c643130: startup date [Mon May 04 13:04:34 KST 2015]; root of context hierarchy
+2015-05-04 13:04:35.075  INFO 6416 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:04:35.085  INFO 6416 --- [           main] kr.co.bluezine.Application               : Started Application in 0.669 seconds (JVM running for 1.149)
+2015-05-04 13:04:35.085  INFO 6416 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@3c643130: startup date [Mon May 04 13:04:34 KST 2015]; root of context hierarchy
+2015-05-04 13:04:35.086  INFO 6416 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:04:59.267 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:04:59.527  INFO 5856 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 5856 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:04:59.528 DEBUG 5856 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:04:59.556  INFO 5856 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@55d96549: startup date [Mon May 04 13:04:59 KST 2015]; root of context hierarchy
+2015-05-04 13:05:00.024  INFO 5856 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:05:00.035  INFO 5856 --- [           main] kr.co.bluezine.Application               : Started Application in 0.683 seconds (JVM running for 1.182)
+2015-05-04 13:05:00.035 DEBUG 5856 --- [           main] kr.co.bluezine.Application               : Success!
+2015-05-04 13:05:00.036  INFO 5856 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@55d96549: startup date [Mon May 04 13:04:59 KST 2015]; root of context hierarchy
+2015-05-04 13:05:00.037  INFO 5856 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:05:08.741 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:05:08.994  INFO 3960 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 3960 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:05:08.995 DEBUG 3960 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:05:09.025  INFO 3960 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3388c7a7: startup date [Mon May 04 13:05:09 KST 2015]; root of context hierarchy
+2015-05-04 13:05:09.482  INFO 3960 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:05:09.492  INFO 3960 --- [           main] kr.co.bluezine.Application               : Started Application in 0.671 seconds (JVM running for 1.151)
+2015-05-04 13:05:09.493 DEBUG 3960 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 13:05:09.493  INFO 3960 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@3388c7a7: startup date [Mon May 04 13:05:09 KST 2015]; root of context hierarchy
+2015-05-04 13:05:09.494  INFO 3960 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:08:52.179 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:08:52.433  INFO 4060 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 4060 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:08:52.433 DEBUG 4060 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:08:52.461  INFO 4060 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@55d96549: startup date [Mon May 04 13:08:52 KST 2015]; root of context hierarchy
+2015-05-04 13:08:52.915  INFO 4060 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:08:52.926  INFO 4060 --- [           main] kr.co.bluezine.Application               : Started Application in 0.669 seconds (JVM running for 1.155)
+2015-05-04 13:08:52.926 DEBUG 4060 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 13:08:52.927  INFO 4060 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@55d96549: startup date [Mon May 04 13:08:52 KST 2015]; root of context hierarchy
+2015-05-04 13:08:52.928  INFO 4060 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:10:02.776 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:10:03.027  INFO 4056 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 4056 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:10:03.028 DEBUG 4056 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:10:03.056  INFO 4056 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@70b83261: startup date [Mon May 04 13:10:03 KST 2015]; root of context hierarchy
+2015-05-04 13:10:03.529  INFO 4056 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:10:03.539  INFO 4056 --- [           main] kr.co.bluezine.Application               : Started Application in 0.682 seconds (JVM running for 1.22)
+2015-05-04 13:10:03.540 DEBUG 4056 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 13:10:03.540  INFO 4056 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@70b83261: startup date [Mon May 04 13:10:03 KST 2015]; root of context hierarchy
+2015-05-04 13:10:03.541  INFO 4056 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:12:16.100 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:12:16.348  INFO 7644 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 7644 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:12:16.348 DEBUG 7644 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:12:16.377  INFO 7644 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6ca79f01: startup date [Mon May 04 13:12:16 KST 2015]; root of context hierarchy
+2015-05-04 13:12:16.870  INFO 7644 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:12:16.881  INFO 7644 --- [           main] kr.co.bluezine.Application               : Started Application in 0.702 seconds (JVM running for 1.236)
+2015-05-04 13:12:16.881 DEBUG 7644 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 13:12:16.882  INFO 7644 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6ca79f01: startup date [Mon May 04 13:12:16 KST 2015]; root of context hierarchy
+2015-05-04 13:12:16.883  INFO 7644 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:13:47.043 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:13:47.336  INFO 7088 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 7088 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:13:47.336 DEBUG 7088 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:13:47.364  INFO 7088 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6f2297aa: startup date [Mon May 04 13:13:47 KST 2015]; root of context hierarchy
+2015-05-04 13:13:47.829  INFO 7088 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:13:47.838  INFO 7088 --- [           main] kr.co.bluezine.Application               : Started Application in 0.67 seconds (JVM running for 1.205)
+2015-05-04 13:13:47.838 DEBUG 7088 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 13:13:47.839  INFO 7088 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6f2297aa: startup date [Mon May 04 13:13:47 KST 2015]; root of context hierarchy
+2015-05-04 13:13:47.840  INFO 7088 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:14:19.314 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:14:19.607  INFO 2444 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 2444 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:14:19.608 DEBUG 2444 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:14:19.636  INFO 2444 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2cd6bd1e: startup date [Mon May 04 13:14:19 KST 2015]; root of context hierarchy
+2015-05-04 13:14:20.111  INFO 2444 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:14:20.158  INFO 2444 --- [           main] kr.co.bluezine.Application               : Started Application in 0.753 seconds (JVM running for 1.264)
+2015-05-04 13:14:20.158 DEBUG 2444 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 13:14:20.159  INFO 2444 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@2cd6bd1e: startup date [Mon May 04 13:14:19 KST 2015]; root of context hierarchy
+2015-05-04 13:14:20.160  INFO 2444 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:19:51.216 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:19:51.480  INFO 3504 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 3504 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:19:51.481 DEBUG 3504 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:19:51.508  INFO 3504 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2cd6bd1e: startup date [Mon May 04 13:19:51 KST 2015]; root of context hierarchy
+2015-05-04 13:19:51.993  INFO 3504 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:19:52.042  INFO 3504 --- [           main] kr.co.bluezine.Application               : Started Application in 0.745 seconds (JVM running for 1.243)
+2015-05-04 13:19:52.042 DEBUG 3504 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 13:19:52.043  INFO 3504 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@2cd6bd1e: startup date [Mon May 04 13:19:51 KST 2015]; root of context hierarchy
+2015-05-04 13:19:52.044  INFO 3504 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:19:58.779 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:19:59.046  INFO 7248 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 7248 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:19:59.047 DEBUG 7248 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:19:59.079  INFO 7248 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1466f971: startup date [Mon May 04 13:19:59 KST 2015]; root of context hierarchy
+2015-05-04 13:19:59.551  INFO 7248 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:19:59.561  INFO 7248 --- [           main] kr.co.bluezine.Application               : Started Application in 0.698 seconds (JVM running for 1.187)
+2015-05-04 13:19:59.561 DEBUG 7248 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 13:19:59.562  INFO 7248 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@1466f971: startup date [Mon May 04 13:19:59 KST 2015]; root of context hierarchy
+2015-05-04 13:19:59.563  INFO 7248 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:22:29.423 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:22:29.685  INFO 7756 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 7756 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:22:29.686 DEBUG 7756 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:22:29.714  INFO 7756 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7482742d: startup date [Mon May 04 13:22:29 KST 2015]; root of context hierarchy
+2015-05-04 13:22:30.164  WARN 7756 --- [           main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'MybatisConfiguration': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String kr.co.bluezine.configuration.MybatisConfiguration.driverClass; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'bonecp.driverClass' in string value "${bonecp.driverClass}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1210)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:686)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:320)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:957)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:946)
+	at kr.co.bluezine.Application.main(Application.java:19)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String kr.co.bluezine.configuration.MybatisConfiguration.driverClass; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'bonecp.driverClass' in string value "${bonecp.driverClass}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:561)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 15 common frames omitted
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'bonecp.driverClass' in string value "${bonecp.driverClass}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:174)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:204)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:178)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$2.resolveStringValue(PropertySourcesPlaceholderConfigurer.java:175)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:801)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:955)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:942)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:533)
+	... 17 common frames omitted
+
+2015-05-04 13:22:30.165  INFO 7756 --- [           main] .b.l.ClasspathLoggingApplicationListener : Application failed to start with classpath: [file:/D:/Programming/SpringProject/spring-boot-mybatis-oracle/bin/, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.jolbox/bonecp/0.8.0.RELEASE/cec24ee9345b3678472bb1b8fdd6aa6b9428beb8/bonecp-0.8.0.RELEASE.jar, file:/C:/Users/Administrator/.m2/repository/com/oracle/ojdbc6_g/11.1.0.7.0/ojdbc6_g-11.1.0.7.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.2.8/7b6bf82cea13570b5290d6ed841283a1fcce170/mybatis-3.2.8.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/1.2.2/1e40a7f5373e4242075a1d386817e7dd49b1697d/mybatis-spring-1.2.2.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.3.RELEASE/a50eea39bce85f09db0fc43d80e86aa767e8cc24/spring-boot-starter-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.3.RELEASE/2601c81786dd8d88fd7e53af1a3950ef45fd5507/spring-boot-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.3.RELEASE/11175f217ac34bdacd6282cd44310f211121e270/spring-boot-autoconfigure-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.2.3.RELEASE/43093c137ea9c6d26ca6341e17295c0a6c506dfb/spring-boot-starter-logging-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.6.RELEASE/e2f486124d5dea2d91a9c2ea7d4456bc343ca2cc/spring-core-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.14/c2df91929ed06a25001939929bff5120e0ea3fd4/snakeyaml-1.14.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.6.RELEASE/15f0b22bf89ed468badbc4eec759af2b916d33e4/spring-context-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.11/180246b7809ffae6293eea3d34e668ee948f0dc8/jcl-over-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.11/87a1d59c837c57396bc20f433ee24ad3a59c7812/jul-to-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.11/4f51599470151c7b8ebec1d36767138f7fb7d427/log4j-over-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/d90276fff414f06cb375f2057f6778cd63c6082f/logback-classic-1.1.3.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.1.6.RELEASE/686c13ba57d9423dede9c5d580dcadc5c67a2761/spring-aop-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.1.6.RELEASE/ce2d409d470948f11fad41ffdf37dcff4d28cd7c/spring-beans-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.6.RELEASE/8bf70887c2c883a6f6e552dbe46eec35c07adf6a/spring-expression-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/e3c02049f2dbbc764681b40094ecf0dcbc99b157/logback-core-1.1.3.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.11/7eaaaf2238f324e2b02dbd4d6ced6778b99328/slf4j-api-1.7.11.jar]
+2015-05-04 13:22:30.167  INFO 7756 --- [           main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report enabled debug logging (start with --debug)
+
+
+2015-05-04 13:22:30.167 ERROR 7756 --- [           main] o.s.boot.SpringApplication               : Application startup failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'MybatisConfiguration': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String kr.co.bluezine.configuration.MybatisConfiguration.driverClass; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'bonecp.driverClass' in string value "${bonecp.driverClass}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1210)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:686)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:320)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:957)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:946)
+	at kr.co.bluezine.Application.main(Application.java:19)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private java.lang.String kr.co.bluezine.configuration.MybatisConfiguration.driverClass; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'bonecp.driverClass' in string value "${bonecp.driverClass}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:561)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 15 common frames omitted
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'bonecp.driverClass' in string value "${bonecp.driverClass}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:174)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:204)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:178)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$2.resolveStringValue(PropertySourcesPlaceholderConfigurer.java:175)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:801)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:955)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:942)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:533)
+	... 17 common frames omitted
+
+2015-05-04 13:23:08.306 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:23:08.566  INFO 5856 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 5856 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:23:08.566 DEBUG 5856 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:23:08.595  INFO 5856 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@38711710: startup date [Mon May 04 13:23:08 KST 2015]; root of context hierarchy
+2015-05-04 13:23:09.124  INFO 5856 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:23:09.125  INFO 5856 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2015-05-04 13:23:09.129  INFO 5856 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.jolbox.bonecp:name=dataSource,type=BoneCPDataSource]
+2015-05-04 13:23:09.134  INFO 5856 --- [           main] kr.co.bluezine.Application               : Started Application in 0.749 seconds (JVM running for 1.233)
+2015-05-04 13:23:09.135 DEBUG 5856 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 13:23:09.135  INFO 5856 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@38711710: startup date [Mon May 04 13:23:08 KST 2015]; root of context hierarchy
+2015-05-04 13:23:09.136  INFO 5856 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:23:09.136  INFO 5856 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2015-05-04 13:26:46.447 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:26:46.702  INFO 1452 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 1452 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:26:46.703 DEBUG 1452 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:26:46.730  INFO 1452 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6082fff0: startup date [Mon May 04 13:26:46 KST 2015]; root of context hierarchy
+2015-05-04 13:26:47.173 DEBUG 1452 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set BoneCP Data Pool
+2015-05-04 13:26:47.239 DEBUG 1452 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionFactory
+2015-05-04 13:26:47.245 DEBUG 1452 --- [           main] org.apache.ibatis.logging.LogFactory     : Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2015-05-04 13:26:47.251  WARN 1452 --- [           main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [kr/co/bluezine/configuration/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1119)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1014)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:686)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:320)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:957)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:946)
+	at kr.co.bluezine.Application.main(Application.java:19)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:189)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588)
+	... 16 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
+	at org.mybatis.spring.SqlSessionFactoryBean.setDataSource(SqlSessionFactoryBean.java:282)
+	at kr.co.bluezine.configuration.MybatisConfiguration.sqlSessionFactory(MybatisConfiguration.java:47)
+	at kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$4f6dd0c7.CGLIB$sqlSessionFactory$1(<generated>)
+	at kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$4f6dd0c7$$FastClassBySpringCGLIB$$8e1878b.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:309)
+	at kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$4f6dd0c7.sqlSessionFactory(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162)
+	... 17 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.jdbc.datasource.TransactionAwareDataSourceProxy
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	... 29 common frames omitted
+
+2015-05-04 13:26:47.252  INFO 1452 --- [           main] .b.l.ClasspathLoggingApplicationListener : Application failed to start with classpath: [file:/D:/Programming/SpringProject/spring-boot-mybatis-oracle/bin/, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.jolbox/bonecp/0.8.0.RELEASE/cec24ee9345b3678472bb1b8fdd6aa6b9428beb8/bonecp-0.8.0.RELEASE.jar, file:/C:/Users/Administrator/.m2/repository/com/oracle/ojdbc6_g/11.1.0.7.0/ojdbc6_g-11.1.0.7.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.2.8/7b6bf82cea13570b5290d6ed841283a1fcce170/mybatis-3.2.8.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/1.2.2/1e40a7f5373e4242075a1d386817e7dd49b1697d/mybatis-spring-1.2.2.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.3.RELEASE/a50eea39bce85f09db0fc43d80e86aa767e8cc24/spring-boot-starter-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.3.RELEASE/2601c81786dd8d88fd7e53af1a3950ef45fd5507/spring-boot-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.3.RELEASE/11175f217ac34bdacd6282cd44310f211121e270/spring-boot-autoconfigure-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.2.3.RELEASE/43093c137ea9c6d26ca6341e17295c0a6c506dfb/spring-boot-starter-logging-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.6.RELEASE/e2f486124d5dea2d91a9c2ea7d4456bc343ca2cc/spring-core-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.14/c2df91929ed06a25001939929bff5120e0ea3fd4/snakeyaml-1.14.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.6.RELEASE/15f0b22bf89ed468badbc4eec759af2b916d33e4/spring-context-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.11/180246b7809ffae6293eea3d34e668ee948f0dc8/jcl-over-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.11/87a1d59c837c57396bc20f433ee24ad3a59c7812/jul-to-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.11/4f51599470151c7b8ebec1d36767138f7fb7d427/log4j-over-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/d90276fff414f06cb375f2057f6778cd63c6082f/logback-classic-1.1.3.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.1.6.RELEASE/686c13ba57d9423dede9c5d580dcadc5c67a2761/spring-aop-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.1.6.RELEASE/ce2d409d470948f11fad41ffdf37dcff4d28cd7c/spring-beans-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.6.RELEASE/8bf70887c2c883a6f6e552dbe46eec35c07adf6a/spring-expression-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/e3c02049f2dbbc764681b40094ecf0dcbc99b157/logback-core-1.1.3.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.11/7eaaaf2238f324e2b02dbd4d6ced6778b99328/slf4j-api-1.7.11.jar]
+2015-05-04 13:26:47.254  INFO 1452 --- [           main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report enabled debug logging (start with --debug)
+
+
+2015-05-04 13:26:47.255 ERROR 1452 --- [           main] o.s.boot.SpringApplication               : Application startup failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [kr/co/bluezine/configuration/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1119)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1014)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:686)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:320)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:957)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:946)
+	at kr.co.bluezine.Application.main(Application.java:19)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:189)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588)
+	... 16 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
+	at org.mybatis.spring.SqlSessionFactoryBean.setDataSource(SqlSessionFactoryBean.java:282)
+	at kr.co.bluezine.configuration.MybatisConfiguration.sqlSessionFactory(MybatisConfiguration.java:47)
+	at kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$4f6dd0c7.CGLIB$sqlSessionFactory$1(<generated>)
+	at kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$4f6dd0c7$$FastClassBySpringCGLIB$$8e1878b.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:309)
+	at kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$4f6dd0c7.sqlSessionFactory(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162)
+	... 17 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.jdbc.datasource.TransactionAwareDataSourceProxy
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	... 29 common frames omitted
+
+2015-05-04 13:30:06.164 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:30:06.420  INFO 6372 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 6372 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:30:06.421 DEBUG 6372 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:30:06.448  INFO 6372 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6082fff0: startup date [Mon May 04 13:30:06 KST 2015]; root of context hierarchy
+2015-05-04 13:30:06.919 DEBUG 6372 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set BoneCP Data Pool
+2015-05-04 13:30:06.988 DEBUG 6372 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionFactory
+2015-05-04 13:30:06.994 DEBUG 6372 --- [           main] org.apache.ibatis.logging.LogFactory     : Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2015-05-04 13:30:06.999  WARN 6372 --- [           main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [kr/co/bluezine/configuration/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1119)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1014)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:686)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:320)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:957)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:946)
+	at kr.co.bluezine.Application.main(Application.java:19)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:189)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588)
+	... 16 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
+	at org.mybatis.spring.SqlSessionFactoryBean.setDataSource(SqlSessionFactoryBean.java:282)
+	at kr.co.bluezine.configuration.MybatisConfiguration.sqlSessionFactory(MybatisConfiguration.java:47)
+	at kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$604bc6ff.CGLIB$sqlSessionFactory$1(<generated>)
+	at kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$604bc6ff$$FastClassBySpringCGLIB$$ac8d2406.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:309)
+	at kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$604bc6ff.sqlSessionFactory(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162)
+	... 17 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.jdbc.datasource.TransactionAwareDataSourceProxy
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	... 29 common frames omitted
+
+2015-05-04 13:30:07.000  INFO 6372 --- [           main] .b.l.ClasspathLoggingApplicationListener : Application failed to start with classpath: [file:/D:/Programming/SpringProject/spring-boot-mybatis-oracle/bin/, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.jolbox/bonecp/0.8.0.RELEASE/cec24ee9345b3678472bb1b8fdd6aa6b9428beb8/bonecp-0.8.0.RELEASE.jar, file:/C:/Users/Administrator/.m2/repository/com/oracle/ojdbc6_g/11.1.0.7.0/ojdbc6_g-11.1.0.7.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.2.8/7b6bf82cea13570b5290d6ed841283a1fcce170/mybatis-3.2.8.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/1.2.2/1e40a7f5373e4242075a1d386817e7dd49b1697d/mybatis-spring-1.2.2.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.3.RELEASE/a50eea39bce85f09db0fc43d80e86aa767e8cc24/spring-boot-starter-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.3.RELEASE/2601c81786dd8d88fd7e53af1a3950ef45fd5507/spring-boot-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.3.RELEASE/11175f217ac34bdacd6282cd44310f211121e270/spring-boot-autoconfigure-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.2.3.RELEASE/43093c137ea9c6d26ca6341e17295c0a6c506dfb/spring-boot-starter-logging-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.6.RELEASE/e2f486124d5dea2d91a9c2ea7d4456bc343ca2cc/spring-core-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.14/c2df91929ed06a25001939929bff5120e0ea3fd4/snakeyaml-1.14.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.6.RELEASE/15f0b22bf89ed468badbc4eec759af2b916d33e4/spring-context-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.11/180246b7809ffae6293eea3d34e668ee948f0dc8/jcl-over-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.11/87a1d59c837c57396bc20f433ee24ad3a59c7812/jul-to-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.11/4f51599470151c7b8ebec1d36767138f7fb7d427/log4j-over-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/d90276fff414f06cb375f2057f6778cd63c6082f/logback-classic-1.1.3.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.1.6.RELEASE/686c13ba57d9423dede9c5d580dcadc5c67a2761/spring-aop-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.1.6.RELEASE/ce2d409d470948f11fad41ffdf37dcff4d28cd7c/spring-beans-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.6.RELEASE/8bf70887c2c883a6f6e552dbe46eec35c07adf6a/spring-expression-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/e3c02049f2dbbc764681b40094ecf0dcbc99b157/logback-core-1.1.3.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.11/7eaaaf2238f324e2b02dbd4d6ced6778b99328/slf4j-api-1.7.11.jar]
+2015-05-04 13:30:07.002  INFO 6372 --- [           main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report enabled debug logging (start with --debug)
+
+
+2015-05-04 13:30:07.002 ERROR 6372 --- [           main] o.s.boot.SpringApplication               : Application startup failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [kr/co/bluezine/configuration/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1119)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1014)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:686)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:320)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:957)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:946)
+	at kr.co.bluezine.Application.main(Application.java:19)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:189)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588)
+	... 16 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
+	at org.mybatis.spring.SqlSessionFactoryBean.setDataSource(SqlSessionFactoryBean.java:282)
+	at kr.co.bluezine.configuration.MybatisConfiguration.sqlSessionFactory(MybatisConfiguration.java:47)
+	at kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$604bc6ff.CGLIB$sqlSessionFactory$1(<generated>)
+	at kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$604bc6ff$$FastClassBySpringCGLIB$$ac8d2406.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:309)
+	at kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$604bc6ff.sqlSessionFactory(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162)
+	... 17 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.jdbc.datasource.TransactionAwareDataSourceProxy
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	... 29 common frames omitted
+
+2015-05-04 13:30:43.238 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:30:43.501  INFO 5920 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 5920 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:30:43.501 DEBUG 5920 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:30:43.529  INFO 5920 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@490c2696: startup date [Mon May 04 13:30:43 KST 2015]; root of context hierarchy
+2015-05-04 13:30:44.109 DEBUG 5920 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set BoneCP Data Pool
+2015-05-04 13:30:44.197 DEBUG 5920 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionFactory
+2015-05-04 13:30:44.203 DEBUG 5920 --- [           main] org.apache.ibatis.logging.LogFactory     : Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2015-05-04 13:30:44.205 DEBUG 5920 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'configLocation' not specified, using default MyBatis Configuration
+2015-05-04 13:30:44.237 DEBUG 5920 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'mapperLocations' was not specified or no matching resources found
+2015-05-04 13:30:44.309  INFO 5920 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:30:44.311  INFO 5920 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2015-05-04 13:30:44.313  INFO 5920 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.jolbox.bonecp:name=dataSource,type=BoneCPDataSource]
+2015-05-04 13:30:44.319  INFO 5920 --- [           main] kr.co.bluezine.Application               : Started Application in 0.995 seconds (JVM running for 1.501)
+2015-05-04 13:30:44.319 DEBUG 5920 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 13:30:44.320  INFO 5920 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@490c2696: startup date [Mon May 04 13:30:43 KST 2015]; root of context hierarchy
+2015-05-04 13:30:44.321  INFO 5920 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:30:44.321  INFO 5920 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2015-05-04 13:53:46.988 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:53:47.262  INFO 7924 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 7924 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:53:47.262 DEBUG 7924 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:53:47.296  INFO 7924 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3cb96751: startup date [Mon May 04 13:53:47 KST 2015]; root of context hierarchy
+2015-05-04 13:53:47.921 DEBUG 7924 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set BoneCP Data Pool
+2015-05-04 13:53:48.012 DEBUG 7924 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionFactory
+2015-05-04 13:53:48.018 DEBUG 7924 --- [           main] org.apache.ibatis.logging.LogFactory     : Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2015-05-04 13:53:48.020 DEBUG 7924 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'configLocation' not specified, using default MyBatis Configuration
+2015-05-04 13:53:48.045 DEBUG 7924 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'mapperLocations' was not specified or no matching resources found
+2015-05-04 13:53:48.124  INFO 7924 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:53:48.125  INFO 7924 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2015-05-04 13:53:48.127  INFO 7924 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.jolbox.bonecp:name=dataSource,type=BoneCPDataSource]
+2015-05-04 13:53:48.134  INFO 7924 --- [           main] kr.co.bluezine.Application               : Started Application in 1.062 seconds (JVM running for 1.56)
+2015-05-04 13:53:48.134 DEBUG 7924 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 13:53:48.135  INFO 7924 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@3cb96751: startup date [Mon May 04 13:53:47 KST 2015]; root of context hierarchy
+2015-05-04 13:53:48.136  INFO 7924 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:53:48.136  INFO 7924 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2015-05-04 13:58:27.103 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 13:58:27.362  INFO 6584 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 6584 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 13:58:27.363 DEBUG 6584 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 13:58:27.394  INFO 6584 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@490c2696: startup date [Mon May 04 13:58:27 KST 2015]; root of context hierarchy
+2015-05-04 13:58:28.009 DEBUG 6584 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set BoneCP Data Pool
+2015-05-04 13:58:28.097 DEBUG 6584 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionFactory
+2015-05-04 13:58:28.103 DEBUG 6584 --- [           main] org.apache.ibatis.logging.LogFactory     : Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2015-05-04 13:58:28.105 DEBUG 6584 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'configLocation' not specified, using default MyBatis Configuration
+2015-05-04 13:58:28.129 DEBUG 6584 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'mapperLocations' was not specified or no matching resources found
+2015-05-04 13:58:28.209  INFO 6584 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 13:58:28.210  INFO 6584 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2015-05-04 13:58:28.212  INFO 6584 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.jolbox.bonecp:name=dataSource,type=BoneCPDataSource]
+2015-05-04 13:58:28.219  INFO 6584 --- [           main] kr.co.bluezine.Application               : Started Application in 1.032 seconds (JVM running for 1.517)
+2015-05-04 13:58:28.219 DEBUG 6584 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 13:58:28.219  INFO 6584 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@490c2696: startup date [Mon May 04 13:58:27 KST 2015]; root of context hierarchy
+2015-05-04 13:58:28.221  INFO 6584 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 13:58:28.221  INFO 6584 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2015-05-04 14:08:21.018 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 14:08:21.282  INFO 7796 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 7796 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 14:08:21.282 DEBUG 7796 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 14:08:21.311  INFO 7796 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@17d59c5b: startup date [Mon May 04 14:08:21 KST 2015]; root of context hierarchy
+2015-05-04 14:08:21.898  WARN 7796 --- [           main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'SugangRepository': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.mybatis.spring.SqlSessionTemplate kr.co.bluezine.repository.SugangRepository.sqlSessionTemplate; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [org.mybatis.spring.SqlSessionTemplate] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1210)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:686)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:320)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:957)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:946)
+	at kr.co.bluezine.Application.main(Application.java:17)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.mybatis.spring.SqlSessionTemplate kr.co.bluezine.repository.SugangRepository.sqlSessionTemplate; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [org.mybatis.spring.SqlSessionTemplate] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:561)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 15 common frames omitted
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [org.mybatis.spring.SqlSessionTemplate] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1301)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1047)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:942)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:533)
+	... 17 common frames omitted
+
+2015-05-04 14:08:21.900  INFO 7796 --- [           main] .b.l.ClasspathLoggingApplicationListener : Application failed to start with classpath: [file:/D:/Programming/SpringProject/spring-boot-mybatis-oracle/bin/, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.1.6.RELEASE/895d8f28e64c0445e3ee9461963406123f06821c/spring-jdbc-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.jolbox/bonecp/0.8.0.RELEASE/cec24ee9345b3678472bb1b8fdd6aa6b9428beb8/bonecp-0.8.0.RELEASE.jar, file:/C:/Users/Administrator/.m2/repository/com/oracle/ojdbc6_g/11.1.0.7.0/ojdbc6_g-11.1.0.7.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.2.8/7b6bf82cea13570b5290d6ed841283a1fcce170/mybatis-3.2.8.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/1.2.2/1e40a7f5373e4242075a1d386817e7dd49b1697d/mybatis-spring-1.2.2.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.3.RELEASE/a50eea39bce85f09db0fc43d80e86aa767e8cc24/spring-boot-starter-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.1.6.RELEASE/ce2d409d470948f11fad41ffdf37dcff4d28cd7c/spring-beans-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.6.RELEASE/e2f486124d5dea2d91a9c2ea7d4456bc343ca2cc/spring-core-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.6.RELEASE/b5beecfa930e0e2ce6fb3999eee3f69c4776e6be/spring-tx-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.3.RELEASE/2601c81786dd8d88fd7e53af1a3950ef45fd5507/spring-boot-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.3.RELEASE/11175f217ac34bdacd6282cd44310f211121e270/spring-boot-autoconfigure-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.2.3.RELEASE/43093c137ea9c6d26ca6341e17295c0a6c506dfb/spring-boot-starter-logging-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.14/c2df91929ed06a25001939929bff5120e0ea3fd4/snakeyaml-1.14.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.6.RELEASE/15f0b22bf89ed468badbc4eec759af2b916d33e4/spring-context-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.11/180246b7809ffae6293eea3d34e668ee948f0dc8/jcl-over-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.11/87a1d59c837c57396bc20f433ee24ad3a59c7812/jul-to-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.11/4f51599470151c7b8ebec1d36767138f7fb7d427/log4j-over-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/d90276fff414f06cb375f2057f6778cd63c6082f/logback-classic-1.1.3.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.1.6.RELEASE/686c13ba57d9423dede9c5d580dcadc5c67a2761/spring-aop-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.6.RELEASE/8bf70887c2c883a6f6e552dbe46eec35c07adf6a/spring-expression-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/e3c02049f2dbbc764681b40094ecf0dcbc99b157/logback-core-1.1.3.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.11/7eaaaf2238f324e2b02dbd4d6ced6778b99328/slf4j-api-1.7.11.jar]
+2015-05-04 14:08:21.902  INFO 7796 --- [           main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report enabled debug logging (start with --debug)
+
+
+2015-05-04 14:08:21.903 ERROR 7796 --- [           main] o.s.boot.SpringApplication               : Application startup failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'SugangRepository': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.mybatis.spring.SqlSessionTemplate kr.co.bluezine.repository.SugangRepository.sqlSessionTemplate; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [org.mybatis.spring.SqlSessionTemplate] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1210)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:686)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:320)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:957)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:946)
+	at kr.co.bluezine.Application.main(Application.java:17)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.mybatis.spring.SqlSessionTemplate kr.co.bluezine.repository.SugangRepository.sqlSessionTemplate; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [org.mybatis.spring.SqlSessionTemplate] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:561)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 15 common frames omitted
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [org.mybatis.spring.SqlSessionTemplate] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1301)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1047)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:942)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:533)
+	... 17 common frames omitted
+
+2015-05-04 14:11:34.204 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 14:11:34.471  INFO 6228 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 6228 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 14:11:34.471 DEBUG 6228 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 14:11:34.499  INFO 6228 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@17d59c5b: startup date [Mon May 04 14:11:34 KST 2015]; root of context hierarchy
+2015-05-04 14:11:35.105 DEBUG 6228 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set BoneCP Data Pool
+2015-05-04 14:11:35.211 DEBUG 6228 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionFactory
+2015-05-04 14:11:35.216 DEBUG 6228 --- [           main] org.apache.ibatis.logging.LogFactory     : Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2015-05-04 14:11:35.219 DEBUG 6228 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'configLocation' not specified, using default MyBatis Configuration
+2015-05-04 14:11:35.244 DEBUG 6228 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'mapperLocations' was not specified or no matching resources found
+2015-05-04 14:11:35.246 DEBUG 6228 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionTemplate
+2015-05-04 14:11:35.354  INFO 6228 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 14:11:35.355  INFO 6228 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2015-05-04 14:11:35.357  INFO 6228 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.jolbox.bonecp:name=dataSource,type=BoneCPDataSource]
+2015-05-04 14:11:35.364  INFO 6228 --- [           main] kr.co.bluezine.Application               : Started Application in 1.077 seconds (JVM running for 1.583)
+2015-05-04 14:11:35.364 DEBUG 6228 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 14:11:35.365  INFO 6228 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@17d59c5b: startup date [Mon May 04 14:11:34 KST 2015]; root of context hierarchy
+2015-05-04 14:11:35.366  INFO 6228 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 14:11:35.366  INFO 6228 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2015-05-04 14:11:35.371 DEBUG 6228 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : Creating a new SqlSession
+2015-05-04 14:11:35.376 DEBUG 6228 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@83e44f4] was not registered for synchronization because synchronization is not active
+2015-05-04 14:11:35.376 DEBUG 6228 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@83e44f4]
+2015-05-04 14:12:27.189 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 14:12:27.448  INFO 3372 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 3372 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 14:12:27.448 DEBUG 3372 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 14:12:27.476  INFO 3372 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@21a56c1a: startup date [Mon May 04 14:12:27 KST 2015]; root of context hierarchy
+2015-05-04 14:12:28.108 DEBUG 3372 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set BoneCP Data Pool
+2015-05-04 14:12:28.203 DEBUG 3372 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionFactory
+2015-05-04 14:12:28.209 DEBUG 3372 --- [           main] org.apache.ibatis.logging.LogFactory     : Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2015-05-04 14:12:28.212 DEBUG 3372 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'configLocation' not specified, using default MyBatis Configuration
+2015-05-04 14:12:28.238 DEBUG 3372 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'mapperLocations' was not specified or no matching resources found
+2015-05-04 14:12:28.240 DEBUG 3372 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionTemplate
+2015-05-04 14:12:28.348  INFO 3372 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 14:12:28.349  INFO 3372 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2015-05-04 14:12:28.351  INFO 3372 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.jolbox.bonecp:name=dataSource,type=BoneCPDataSource]
+2015-05-04 14:12:28.358  INFO 3372 --- [           main] kr.co.bluezine.Application               : Started Application in 1.089 seconds (JVM running for 1.582)
+2015-05-04 14:12:28.358 DEBUG 3372 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 14:12:28.358  INFO 3372 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@21a56c1a: startup date [Mon May 04 14:12:27 KST 2015]; root of context hierarchy
+2015-05-04 14:12:28.359  INFO 3372 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 14:12:28.360  INFO 3372 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2015-05-04 14:12:28.363 DEBUG 3372 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : Creating a new SqlSession
+2015-05-04 14:12:28.367 DEBUG 3372 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e030872] was not registered for synchronization because synchronization is not active
+2015-05-04 14:12:28.368 DEBUG 3372 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6e030872]
+2015-05-04 14:13:29.861 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 14:13:30.127  INFO 7640 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 7640 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 14:13:30.128 DEBUG 7640 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 14:13:30.158  INFO 7640 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2805805d: startup date [Mon May 04 14:13:30 KST 2015]; root of context hierarchy
+2015-05-04 14:13:30.786 DEBUG 7640 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set BoneCP Data Pool
+2015-05-04 14:13:30.869 DEBUG 7640 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionFactory
+2015-05-04 14:13:30.875 DEBUG 7640 --- [           main] org.apache.ibatis.logging.LogFactory     : Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2015-05-04 14:13:30.877 DEBUG 7640 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'configLocation' not specified, using default MyBatis Configuration
+2015-05-04 14:13:30.904 DEBUG 7640 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'mapperLocations' was not specified or no matching resources found
+2015-05-04 14:13:30.907 DEBUG 7640 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionTemplate
+2015-05-04 14:13:31.019  INFO 7640 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 14:13:31.021  INFO 7640 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2015-05-04 14:13:31.023  INFO 7640 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.jolbox.bonecp:name=dataSource,type=BoneCPDataSource]
+2015-05-04 14:13:31.040  INFO 7640 --- [           main] .b.l.ClasspathLoggingApplicationListener : Application failed to start with classpath: [file:/D:/Programming/SpringProject/spring-boot-mybatis-oracle/bin/, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.1.6.RELEASE/895d8f28e64c0445e3ee9461963406123f06821c/spring-jdbc-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.jolbox/bonecp/0.8.0.RELEASE/cec24ee9345b3678472bb1b8fdd6aa6b9428beb8/bonecp-0.8.0.RELEASE.jar, file:/C:/Users/Administrator/.m2/repository/com/oracle/ojdbc6_g/11.1.0.7.0/ojdbc6_g-11.1.0.7.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.2.8/7b6bf82cea13570b5290d6ed841283a1fcce170/mybatis-3.2.8.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/1.2.2/1e40a7f5373e4242075a1d386817e7dd49b1697d/mybatis-spring-1.2.2.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.3.RELEASE/a50eea39bce85f09db0fc43d80e86aa767e8cc24/spring-boot-starter-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.1.6.RELEASE/ce2d409d470948f11fad41ffdf37dcff4d28cd7c/spring-beans-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.6.RELEASE/e2f486124d5dea2d91a9c2ea7d4456bc343ca2cc/spring-core-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.6.RELEASE/b5beecfa930e0e2ce6fb3999eee3f69c4776e6be/spring-tx-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.3.RELEASE/2601c81786dd8d88fd7e53af1a3950ef45fd5507/spring-boot-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.3.RELEASE/11175f217ac34bdacd6282cd44310f211121e270/spring-boot-autoconfigure-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.2.3.RELEASE/43093c137ea9c6d26ca6341e17295c0a6c506dfb/spring-boot-starter-logging-1.2.3.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.14/c2df91929ed06a25001939929bff5120e0ea3fd4/snakeyaml-1.14.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.6.RELEASE/15f0b22bf89ed468badbc4eec759af2b916d33e4/spring-context-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.11/180246b7809ffae6293eea3d34e668ee948f0dc8/jcl-over-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.11/87a1d59c837c57396bc20f433ee24ad3a59c7812/jul-to-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.11/4f51599470151c7b8ebec1d36767138f7fb7d427/log4j-over-slf4j-1.7.11.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/d90276fff414f06cb375f2057f6778cd63c6082f/logback-classic-1.1.3.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.1.6.RELEASE/686c13ba57d9423dede9c5d580dcadc5c67a2761/spring-aop-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.6.RELEASE/8bf70887c2c883a6f6e552dbe46eec35c07adf6a/spring-expression-4.1.6.RELEASE.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/e3c02049f2dbbc764681b40094ecf0dcbc99b157/logback-core-1.1.3.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar, file:/C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.11/7eaaaf2238f324e2b02dbd4d6ced6778b99328/slf4j-api-1.7.11.jar]
+2015-05-04 14:13:31.040  INFO 7640 --- [           main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report enabled debug logging (start with --debug)
+
+
+2015-05-04 14:13:31.043 ERROR 7640 --- [           main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.runCommandLineRunners(SpringApplication.java:675)
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:690)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:957)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:946)
+	at kr.co.bluezine.Application.main(Application.java:24)
+Caused by: org.apache.ibatis.binding.BindingException: Type interface kr.co.bluezine.mapper.SugangMapper is not known to the MapperRegistry.
+	at org.apache.ibatis.binding.MapperRegistry.getMapper(MapperRegistry.java:47)
+	at org.apache.ibatis.session.Configuration.getMapper(Configuration.java:655)
+	at org.mybatis.spring.SqlSessionTemplate.getMapper(SqlSessionTemplate.java:275)
+	at kr.co.bluezine.repository.SugangRepository.getMapper(SugangRepository.java:18)
+	at kr.co.bluezine.repository.SugangRepository.deptList(SugangRepository.java:26)
+	at kr.co.bluezine.repository.SugangRepository$$FastClassBySpringCGLIB$$36e1cb30.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:717)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:136)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:653)
+	at kr.co.bluezine.repository.SugangRepository$$EnhancerBySpringCGLIB$$1d79c1bc.deptList(<generated>)
+	at kr.co.bluezine.service.impl.SugangServiceImpl.deptList(SugangServiceImpl.java:31)
+	at kr.co.bluezine.Application.run(Application.java:36)
+	at org.springframework.boot.SpringApplication.runCommandLineRunners(SpringApplication.java:672)
+	... 5 common frames omitted
+
+2015-05-04 14:13:31.043  INFO 7640 --- [           main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@2805805d: startup date [Mon May 04 14:13:30 KST 2015]; root of context hierarchy
+2015-05-04 14:13:31.044  INFO 7640 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 14:13:31.044  INFO 7640 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2015-05-04 14:13:31.047 DEBUG 7640 --- [           main] org.mybatis.spring.SqlSessionUtils       : Creating a new SqlSession
+2015-05-04 14:13:31.051 DEBUG 7640 --- [           main] org.mybatis.spring.SqlSessionUtils       : SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@e067956] was not registered for synchronization because synchronization is not active
+2015-05-04 14:13:31.052 DEBUG 7640 --- [           main] org.mybatis.spring.SqlSessionUtils       : Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@e067956]
+2015-05-04 14:14:30.937 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 14:14:31.200  INFO 1080 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 1080 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 14:14:31.200 DEBUG 1080 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 14:14:31.229  INFO 1080 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2805805d: startup date [Mon May 04 14:14:31 KST 2015]; root of context hierarchy
+2015-05-04 14:14:31.613 DEBUG 1080 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin\kr\co\bluezine\mapper\SugangMapper.class]
+2015-05-04 14:14:31.614 DEBUG 1080 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'sugangMapper' and 'kr.co.bluezine.mapper.SugangMapper' mapperInterface
+2015-05-04 14:14:31.615 DEBUG 1080 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'sugangMapper'.
+2015-05-04 14:14:31.782  INFO 1080 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'MybatisConfiguration' of type [class kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$f4efc48f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:14:31.795 DEBUG 1080 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set BoneCP Data Pool
+2015-05-04 14:14:31.859  INFO 1080 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'dataSource' of type [class com.jolbox.bonecp.BoneCPDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:14:31.860 DEBUG 1080 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionFactory
+2015-05-04 14:14:31.865 DEBUG 1080 --- [           main] org.apache.ibatis.logging.LogFactory     : Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2015-05-04 14:14:31.867 DEBUG 1080 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'configLocation' not specified, using default MyBatis Configuration
+2015-05-04 14:14:31.892 DEBUG 1080 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'mapperLocations' was not specified or no matching resources found
+2015-05-04 14:14:31.895  INFO 1080 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionFactory' of type [class org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:14:31.899 DEBUG 1080 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionTemplate
+2015-05-04 14:14:31.907  INFO 1080 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionTemplate' of type [class org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:14:32.017  INFO 1080 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'sugangMapper' of type [class org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:14:32.205  INFO 1080 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 14:14:32.207  INFO 1080 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2015-05-04 14:14:32.211  INFO 1080 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.jolbox.bonecp:name=dataSource,type=BoneCPDataSource]
+2015-05-04 14:14:32.240 DEBUG 1080 --- [           main] org.mybatis.spring.SqlSessionUtils       : Creating a new SqlSession
+2015-05-04 14:14:32.245 DEBUG 1080 --- [           main] org.mybatis.spring.SqlSessionUtils       : SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6aba64e6] was not registered for synchronization because synchronization is not active
+2015-05-04 14:14:32.284 DEBUG 1080 --- [           main] com.jolbox.bonecp.BoneCPDataSource       : JDBC URL = jdbc:oracle:thin:@localhost:1521:ORCL, Username = sugang, partitions = 1, max (per partition) = 10, min (per partition) = 0, idle max age = 60 min, idle test period = 240 min, strategy = DEFAULT
+2015-05-04 14:14:32.814 DEBUG 1080 --- [           main] o.m.s.t.SpringManagedTransaction         : JDBC Connection [ConnectionHandle{url=jdbc:oracle:thin:@localhost:1521:ORCL, user=sugang, debugHandle=null, lastResetAgoInSec=0, lastUsedAgoInSec=0, creationTimeAgoInSec=0}] will not be managed by Spring
+2015-05-04 14:14:32.818 DEBUG 1080 --- [           main] k.c.b.mapper.SugangMapper.deptList       : ==>  Preparing: { CALL COURSELIST.GETDEPTLIST( ? ) } 
+2015-05-04 14:14:32.926 DEBUG 1080 --- [           main] k.c.b.mapper.SugangMapper.deptList       : ==> Parameters: 
+2015-05-04 14:14:33.010 DEBUG 1080 --- [           main] org.mybatis.spring.SqlSessionUtils       : Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6aba64e6]
+2015-05-04 14:14:33.011  INFO 1080 --- [           main] kr.co.bluezine.Application               : Started Application in 1.987 seconds (JVM running for 2.501)
+2015-05-04 14:14:33.011 DEBUG 1080 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 14:14:33.011  INFO 1080 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@2805805d: startup date [Mon May 04 14:14:31 KST 2015]; root of context hierarchy
+2015-05-04 14:14:33.013  INFO 1080 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 14:14:33.013  INFO 1080 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2015-05-04 14:14:33.014 DEBUG 1080 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : Creating a new SqlSession
+2015-05-04 14:14:33.014 DEBUG 1080 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@321baa4a] was not registered for synchronization because synchronization is not active
+2015-05-04 14:14:33.014 DEBUG 1080 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@321baa4a]
+2015-05-04 14:14:33.014  INFO 1080 --- [       Thread-1] com.jolbox.bonecp.BoneCP                 : Shutting down connection pool...
+2015-05-04 14:14:33.014 DEBUG 1080 --- [ol-watch-thread] com.jolbox.bonecp.PoolWatchThread        : Terminating pool watch thread
+2015-05-04 14:14:33.056  INFO 1080 --- [       Thread-1] com.jolbox.bonecp.BoneCP                 : Connection pool has been shutdown.
+2015-05-04 14:14:33.056 DEBUG 1080 --- [       Thread-1] com.jolbox.bonecp.BoneCPDataSource       : Connection pool has been shut down
+2015-05-04 14:56:42.002 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 14:56:42.263  INFO 6260 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 6260 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 14:56:42.263 DEBUG 6260 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 14:56:42.292  INFO 6260 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2961a60c: startup date [Mon May 04 14:56:42 KST 2015]; root of context hierarchy
+2015-05-04 14:56:42.680 DEBUG 6260 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin\kr\co\bluezine\mapper\SugangMapper.class]
+2015-05-04 14:56:42.680 DEBUG 6260 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'sugangMapper' and 'kr.co.bluezine.mapper.SugangMapper' mapperInterface
+2015-05-04 14:56:42.681 DEBUG 6260 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'sugangMapper'.
+2015-05-04 14:56:42.850  INFO 6260 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'MybatisConfiguration' of type [class kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$6aad38a3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:56:42.865 DEBUG 6260 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set BoneCP Data Pool
+2015-05-04 14:56:42.933  INFO 6260 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'dataSource' of type [class com.jolbox.bonecp.BoneCPDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:56:42.934 DEBUG 6260 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionFactory
+2015-05-04 14:56:42.939 DEBUG 6260 --- [           main] org.apache.ibatis.logging.LogFactory     : Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2015-05-04 14:56:42.941 DEBUG 6260 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'configLocation' not specified, using default MyBatis Configuration
+2015-05-04 14:56:42.966 DEBUG 6260 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'mapperLocations' was not specified or no matching resources found
+2015-05-04 14:56:42.968  INFO 6260 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionFactory' of type [class org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:56:42.974 DEBUG 6260 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionTemplate
+2015-05-04 14:56:42.980  INFO 6260 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionTemplate' of type [class org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:56:43.058  INFO 6260 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'sugangMapper' of type [class org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:56:43.263  INFO 6260 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 14:56:43.265  INFO 6260 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2015-05-04 14:56:43.268  INFO 6260 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.jolbox.bonecp:name=dataSource,type=BoneCPDataSource]
+2015-05-04 14:56:43.291 DEBUG 6260 --- [           main] org.mybatis.spring.SqlSessionUtils       : Creating a new SqlSession
+2015-05-04 14:56:43.296 DEBUG 6260 --- [           main] org.mybatis.spring.SqlSessionUtils       : SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@23d29c10] was not registered for synchronization because synchronization is not active
+2015-05-04 14:56:43.326 DEBUG 6260 --- [           main] com.jolbox.bonecp.BoneCPDataSource       : JDBC URL = jdbc:oracle:thin:@localhost:1521:ORCL, Username = sugang, partitions = 1, max (per partition) = 10, min (per partition) = 0, idle max age = 60 min, idle test period = 240 min, strategy = DEFAULT
+2015-05-04 14:56:43.600 DEBUG 6260 --- [           main] o.m.s.t.SpringManagedTransaction         : JDBC Connection [ConnectionHandle{url=jdbc:oracle:thin:@localhost:1521:ORCL, user=sugang, debugHandle=null, lastResetAgoInSec=0, lastUsedAgoInSec=0, creationTimeAgoInSec=0}] will not be managed by Spring
+2015-05-04 14:56:43.604 DEBUG 6260 --- [           main] k.c.b.mapper.SugangMapper.deptList       : ==>  Preparing: { CALL COURSELIST.GETDEPTLIST( ? ) } 
+2015-05-04 14:56:43.713 DEBUG 6260 --- [           main] k.c.b.mapper.SugangMapper.deptList       : ==> Parameters: 
+2015-05-04 14:56:43.741 DEBUG 6260 --- [           main] org.mybatis.spring.SqlSessionUtils       : Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@23d29c10]
+2015-05-04 14:56:43.742  INFO 6260 --- [           main] kr.co.bluezine.Application               : Started Application in 1.657 seconds (JVM running for 2.168)
+2015-05-04 14:56:43.742 DEBUG 6260 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 14:56:43.742  INFO 6260 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@2961a60c: startup date [Mon May 04 14:56:42 KST 2015]; root of context hierarchy
+2015-05-04 14:56:43.744  INFO 6260 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 14:56:43.744  INFO 6260 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2015-05-04 14:56:43.745 DEBUG 6260 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : Creating a new SqlSession
+2015-05-04 14:56:43.745 DEBUG 6260 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3efdd25e] was not registered for synchronization because synchronization is not active
+2015-05-04 14:56:43.745 DEBUG 6260 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3efdd25e]
+2015-05-04 14:56:43.745  INFO 6260 --- [       Thread-1] com.jolbox.bonecp.BoneCP                 : Shutting down connection pool...
+2015-05-04 14:56:43.746 DEBUG 6260 --- [ol-watch-thread] com.jolbox.bonecp.PoolWatchThread        : Terminating pool watch thread
+2015-05-04 14:56:43.749  INFO 6260 --- [       Thread-1] com.jolbox.bonecp.BoneCP                 : Connection pool has been shutdown.
+2015-05-04 14:56:43.749 DEBUG 6260 --- [       Thread-1] com.jolbox.bonecp.BoneCPDataSource       : Connection pool has been shut down
+2015-05-04 14:57:06.940 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 14:57:07.217  INFO 8056 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 8056 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 14:57:07.217 DEBUG 8056 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 14:57:07.244  INFO 8056 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@49dc730d: startup date [Mon May 04 14:57:07 KST 2015]; root of context hierarchy
+2015-05-04 14:57:07.620 DEBUG 8056 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin\kr\co\bluezine\mapper\SugangMapper.class]
+2015-05-04 14:57:07.620 DEBUG 8056 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'sugangMapper' and 'kr.co.bluezine.mapper.SugangMapper' mapperInterface
+2015-05-04 14:57:07.621 DEBUG 8056 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'sugangMapper'.
+2015-05-04 14:57:07.787  INFO 8056 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'MybatisConfiguration' of type [class kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$fce5c444] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:57:07.800 DEBUG 8056 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set BoneCP Data Pool
+2015-05-04 14:57:07.856  INFO 8056 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'dataSource' of type [class com.jolbox.bonecp.BoneCPDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:57:07.857 DEBUG 8056 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionFactory
+2015-05-04 14:57:07.862 DEBUG 8056 --- [           main] org.apache.ibatis.logging.LogFactory     : Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2015-05-04 14:57:07.864 DEBUG 8056 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'configLocation' not specified, using default MyBatis Configuration
+2015-05-04 14:57:07.890 DEBUG 8056 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'mapperLocations' was not specified or no matching resources found
+2015-05-04 14:57:07.892  INFO 8056 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionFactory' of type [class org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:57:07.897 DEBUG 8056 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionTemplate
+2015-05-04 14:57:07.903  INFO 8056 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionTemplate' of type [class org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:57:07.976  INFO 8056 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'sugangMapper' of type [class org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:57:08.170  INFO 8056 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 14:57:08.172  INFO 8056 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2015-05-04 14:57:08.174  INFO 8056 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.jolbox.bonecp:name=dataSource,type=BoneCPDataSource]
+2015-05-04 14:57:08.197 DEBUG 8056 --- [           main] org.mybatis.spring.SqlSessionUtils       : Creating a new SqlSession
+2015-05-04 14:57:08.201 DEBUG 8056 --- [           main] org.mybatis.spring.SqlSessionUtils       : SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@23d29c10] was not registered for synchronization because synchronization is not active
+2015-05-04 14:57:08.230 DEBUG 8056 --- [           main] com.jolbox.bonecp.BoneCPDataSource       : JDBC URL = jdbc:oracle:thin:@localhost:1521:ORCL, Username = sugang, partitions = 1, max (per partition) = 10, min (per partition) = 0, idle max age = 60 min, idle test period = 240 min, strategy = DEFAULT
+2015-05-04 14:57:08.500 DEBUG 8056 --- [           main] o.m.s.t.SpringManagedTransaction         : JDBC Connection [ConnectionHandle{url=jdbc:oracle:thin:@localhost:1521:ORCL, user=sugang, debugHandle=null, lastResetAgoInSec=0, lastUsedAgoInSec=0, creationTimeAgoInSec=0}] will not be managed by Spring
+2015-05-04 14:57:08.504 DEBUG 8056 --- [           main] k.c.b.mapper.SugangMapper.deptList       : ==>  Preparing: { CALL COURSELIST.GETDEPTLIST( ? ) } 
+2015-05-04 14:57:08.612 DEBUG 8056 --- [           main] k.c.b.mapper.SugangMapper.deptList       : ==> Parameters: 
+2015-05-04 14:57:08.642 DEBUG 8056 --- [           main] org.mybatis.spring.SqlSessionUtils       : Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@23d29c10]
+2015-05-04 14:57:08.643 DEBUG 8056 --- [           main] kr.co.bluezine.Application               : [{DEPTCODE=E001, DEPTNAME=컴퓨터학과}, {DEPTCODE=E002, DEPTNAME=멀티미디어학과}, {DEPTCODE=G001, DEPTNAME=교양학과}]
+2015-05-04 14:57:08.644  INFO 8056 --- [           main] kr.co.bluezine.Application               : Started Application in 1.623 seconds (JVM running for 2.118)
+2015-05-04 14:57:08.644 DEBUG 8056 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 14:57:08.645  INFO 8056 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@49dc730d: startup date [Mon May 04 14:57:07 KST 2015]; root of context hierarchy
+2015-05-04 14:57:08.647  INFO 8056 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 14:57:08.647  INFO 8056 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2015-05-04 14:57:08.648 DEBUG 8056 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : Creating a new SqlSession
+2015-05-04 14:57:08.648 DEBUG 8056 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@68b613f8] was not registered for synchronization because synchronization is not active
+2015-05-04 14:57:08.648 DEBUG 8056 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@68b613f8]
+2015-05-04 14:57:08.648  INFO 8056 --- [       Thread-1] com.jolbox.bonecp.BoneCP                 : Shutting down connection pool...
+2015-05-04 14:57:08.649 DEBUG 8056 --- [ol-watch-thread] com.jolbox.bonecp.PoolWatchThread        : Terminating pool watch thread
+2015-05-04 14:57:08.653  INFO 8056 --- [       Thread-1] com.jolbox.bonecp.BoneCP                 : Connection pool has been shutdown.
+2015-05-04 14:57:08.653 DEBUG 8056 --- [       Thread-1] com.jolbox.bonecp.BoneCPDataSource       : Connection pool has been shut down
+2015-05-04 14:58:50.547 DEBUG   --- [           main] kr.co.bluezine.Application               : ---------> Stating...
+2015-05-04 14:58:50.815  INFO 6992 --- [           main] kr.co.bluezine.Application               : Starting Application on BLUEZINE-NOTE with PID 6992 (D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin started by Administrator in D:\Programming\SpringProject\spring-boot-mybatis-oracle)
+2015-05-04 14:58:50.816 DEBUG 6992 --- [           main] kr.co.bluezine.Application               : Running with Spring Boot v1.2.3.RELEASE, Spring v4.1.6.RELEASE
+2015-05-04 14:58:50.845  INFO 6992 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2805805d: startup date [Mon May 04 14:58:50 KST 2015]; root of context hierarchy
+2015-05-04 14:58:51.217 DEBUG 6992 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\Programming\SpringProject\spring-boot-mybatis-oracle\bin\kr\co\bluezine\mapper\SugangMapper.class]
+2015-05-04 14:58:51.217 DEBUG 6992 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'sugangMapper' and 'kr.co.bluezine.mapper.SugangMapper' mapperInterface
+2015-05-04 14:58:51.218 DEBUG 6992 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'sugangMapper'.
+2015-05-04 14:58:51.396  INFO 6992 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'MybatisConfiguration' of type [class kr.co.bluezine.configuration.MybatisConfiguration$$EnhancerBySpringCGLIB$$a47f82ae] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:58:51.408 DEBUG 6992 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set BoneCP Data Pool
+2015-05-04 14:58:51.488  INFO 6992 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'dataSource' of type [class com.jolbox.bonecp.BoneCPDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:58:51.490 DEBUG 6992 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionFactory
+2015-05-04 14:58:51.496 DEBUG 6992 --- [           main] org.apache.ibatis.logging.LogFactory     : Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2015-05-04 14:58:51.499 DEBUG 6992 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'configLocation' not specified, using default MyBatis Configuration
+2015-05-04 14:58:51.534 DEBUG 6992 --- [           main] o.mybatis.spring.SqlSessionFactoryBean   : Property 'mapperLocations' was not specified or no matching resources found
+2015-05-04 14:58:51.536  INFO 6992 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionFactory' of type [class org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:58:51.542 DEBUG 6992 --- [           main] k.c.b.c.MybatisConfiguration             : ---------> Set SqlSessionTemplate
+2015-05-04 14:58:51.549  INFO 6992 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'sqlSessionTemplate' of type [class org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:58:51.623  INFO 6992 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'sugangMapper' of type [class org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2015-05-04 14:58:51.854  INFO 6992 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2015-05-04 14:58:51.857  INFO 6992 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2015-05-04 14:58:51.861  INFO 6992 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.jolbox.bonecp:name=dataSource,type=BoneCPDataSource]
+2015-05-04 14:58:51.869 DEBUG 6992 --- [           main] kr.co.bluezine.Application               : ---------> Command Line start
+2015-05-04 14:58:51.870 DEBUG 6992 --- [           main] kr.co.bluezine.Application               : ---------> Service before
+2015-05-04 14:58:51.893 DEBUG 6992 --- [           main] org.mybatis.spring.SqlSessionUtils       : Creating a new SqlSession
+2015-05-04 14:58:51.898 DEBUG 6992 --- [           main] org.mybatis.spring.SqlSessionUtils       : SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@636c823d] was not registered for synchronization because synchronization is not active
+2015-05-04 14:58:51.932 DEBUG 6992 --- [           main] com.jolbox.bonecp.BoneCPDataSource       : JDBC URL = jdbc:oracle:thin:@localhost:1521:ORCL, Username = sugang, partitions = 1, max (per partition) = 10, min (per partition) = 0, idle max age = 60 min, idle test period = 240 min, strategy = DEFAULT
+2015-05-04 14:58:52.192 DEBUG 6992 --- [           main] o.m.s.t.SpringManagedTransaction         : JDBC Connection [ConnectionHandle{url=jdbc:oracle:thin:@localhost:1521:ORCL, user=sugang, debugHandle=null, lastResetAgoInSec=0, lastUsedAgoInSec=0, creationTimeAgoInSec=0}] will not be managed by Spring
+2015-05-04 14:58:52.196 DEBUG 6992 --- [           main] k.c.b.mapper.SugangMapper.deptList       : ==>  Preparing: { CALL COURSELIST.GETDEPTLIST( ? ) } 
+2015-05-04 14:58:52.307 DEBUG 6992 --- [           main] k.c.b.mapper.SugangMapper.deptList       : ==> Parameters: 
+2015-05-04 14:58:52.335 DEBUG 6992 --- [           main] org.mybatis.spring.SqlSessionUtils       : Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@636c823d]
+2015-05-04 14:58:52.336 DEBUG 6992 --- [           main] kr.co.bluezine.Application               : [{DEPTCODE=E001, DEPTNAME=컴퓨터학과}, {DEPTCODE=E002, DEPTNAME=멀티미디어학과}, {DEPTCODE=G001, DEPTNAME=교양학과}]
+2015-05-04 14:58:52.336  INFO 6992 --- [           main] kr.co.bluezine.Application               : Started Application in 1.706 seconds (JVM running for 2.204)
+2015-05-04 14:58:52.337 DEBUG 6992 --- [           main] kr.co.bluezine.Application               : ---------> Success!
+2015-05-04 14:58:52.337  INFO 6992 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@2805805d: startup date [Mon May 04 14:58:50 KST 2015]; root of context hierarchy
+2015-05-04 14:58:52.338  INFO 6992 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2015-05-04 14:58:52.339  INFO 6992 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2015-05-04 14:58:52.339 DEBUG 6992 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : Creating a new SqlSession
+2015-05-04 14:58:52.339 DEBUG 6992 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1304ff98] was not registered for synchronization because synchronization is not active
+2015-05-04 14:58:52.340 DEBUG 6992 --- [       Thread-1] org.mybatis.spring.SqlSessionUtils       : Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1304ff98]
+2015-05-04 14:58:52.340  INFO 6992 --- [       Thread-1] com.jolbox.bonecp.BoneCP                 : Shutting down connection pool...
+2015-05-04 14:58:52.340 DEBUG 6992 --- [ol-watch-thread] com.jolbox.bonecp.PoolWatchThread        : Terminating pool watch thread
+2015-05-04 14:58:52.344  INFO 6992 --- [       Thread-1] com.jolbox.bonecp.BoneCP                 : Connection pool has been shutdown.
+2015-05-04 14:58:52.344 DEBUG 6992 --- [       Thread-1] com.jolbox.bonecp.BoneCPDataSource       : Connection pool has been shut down

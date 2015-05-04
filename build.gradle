@@ -1,0 +1,79 @@
+buildscript {
+    ext {
+        springBootVersion = '1.2.3.RELEASE'
+    }
+    repositories {
+        mavenCentral()
+        mavenLocal()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}") 
+        classpath("io.spring.gradle:dependency-management-plugin:0.5.0.RELEASE")
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+apply plugin: 'spring-boot' 
+apply plugin: 'io.spring.dependency-management' 
+
+jar {
+    baseName = 'spring-boot-mybatis-oracle'
+    version = '0.0.1-SNAPSHOT'
+}
+sourceCompatibility = 1.7
+targetCompatibility = 1.7
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+}
+
+ext {
+	springJdbc = '4.1.6.RELEASE'
+	boneCP = '0.8.0.RELEASE'
+	oracleJdbc = '11.1.0.7.0'
+	mybatis = '3.2.8'
+	mybatisSpring = '1.2.2'
+}
+
+dependencies {
+	compile("org.springframework:spring-jdbc:${springJdbc}")
+	compile("com.jolbox:bonecp:${boneCP}")
+	compile("com.oracle:ojdbc6_g:${oracleJdbc}")
+	compile("org.mybatis:mybatis:${mybatis}")
+	compile("org.mybatis:mybatis-spring:${mybatisSpring}")
+    compile("org.springframework.boot:spring-boot-starter")
+    
+}
+
+task fatJar(type: Jar) {
+
+	ext {
+		Applicationversion = '1.0'
+		mainClass = 'kr.co.bluezine.Application'
+	}
+	manifest {
+        attributes 'Implementation-Title': 'Gradle Jar File Example',  
+        	'Implementation-Version': "${Applicationversion}",
+        	'Main-Class': "${mainClass}",
+        	'Class-Path': '.'
+        	
+    }
+    baseName = project.name + '-all'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
+
+
+eclipse {
+    classpath {
+         containers.remove('org.eclipse.jdt.launching.JRE_CONTAINER')
+         containers 'org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7'
+    }
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.3'
+}
